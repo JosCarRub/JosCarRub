@@ -1,20 +1,19 @@
-## Hello World! I'm José Carlos 👋
-
-<!--
-**JosCarRub/JosCarRub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
-  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV1OXA4ZHQwd29hbndtaDg4bzcwZmthNm51d3Z1Zzh4bzZka2xuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.gif)" width="300" alt="GIF de programación">
+  <h1> Hello World! 👋  I´m José Carlos</h1>
 </div>
 
+<div align="center">
+  <p>Full Stack Developer </p>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,js,java,django,astro,spring,bootstrap,tailwind,docker,aws&theme=dark" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </p>
+</div>
