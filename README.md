@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm José Carlos 👋
 
 <!--
 **JosCarRub/JosCarRub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV1OXA4ZHQwd29hbndtaDg4bzcwZmthNm51d3Z1Zzh4bzZka2xuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FbU0sArGktaGGDe99/giphy.gif)" width="300" alt="GIF de programación">
+</div>
+
