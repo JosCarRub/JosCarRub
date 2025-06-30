@@ -53,9 +53,7 @@
 > 🚧 **Star Project Coming Soon**  
 > Currently working on my flagship project that will showcase the best of my skills and creativity. Stay tuned!
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosCarRub&theme=dark&hide_border=true&background=0d1117&stroke=5EEAD4&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4" alt="GitHub Streak Stats" />
-</div>
+
 
 ---
 
