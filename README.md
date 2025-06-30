@@ -49,7 +49,7 @@ Currently exploring **Go** and diving deep into **AI agent integration** for bus
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="AI/ML" width="55" height="55"/>
+
 </p>
 </div>
 
