@@ -6,14 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a **Software Developer** passionate about building elegant solutions through clean, efficient code.
-
-Currently exploring **Go** and diving deep into **AI agent integration** for business applications, always pushing the boundaries of what's possible in software development.
-
----
-
 ## 🛠️ Tech Stack
 <br><br>
 <div align="center">
