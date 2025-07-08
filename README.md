@@ -53,24 +53,20 @@
 
 ---
 
+
 ## 🌟 Featured Projects
 
-> 🚧 **Star Project Coming Soon**  
-> Currently working on my flagship project that will showcase the best of my skills and creativity. Stay tuned!
+### Go Tutor Agent
 
+The system is orchestrated with Docker and is composed of:
+- **Backend:** A robust REST API with **Spring Boot** and data persistence in **MongoDB**. <br>
+- **AI Core:** The agent's brain, built with **Python** and **FastAPI**.<br>
+- **Code Sandbox:** A dedicated microservice in **Go** for secure, isolated executions.<br>
+- **Frontend:** An ultra-fast UI with **Astro** and **Preact** (Islands Architecture).<br>
+- **Observability:** A complete stack with **Prometheus, Grafana, and Loki** for comprehensive monitoring.<br><br>
 
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([in/josé-carlos-cataluña-rubio-4251b1334](https://www.linkedin.com/in/jos%C3%A9-carlos-catalu%C3%B1a-rubio-4251b1334))
-[![Email](https://img.shields.io/badge/Email-5EEAD4?style=for-the-badge&logo=gmail&logoColor=black)](mailto:contacto@josecarlosdev.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-5EEAD4?style=for-the-badge&logo=web&logoColor=black)](#)
-
-</div>
+[👨‍💻 **Explore the Code on GitHub**](https://github.com/JosCarRub/go-tutor-agent-project)
 
 ---
+
 
