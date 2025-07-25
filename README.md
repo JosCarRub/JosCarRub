@@ -1,13 +1,7 @@
 # Hi there, I'm José Carlos 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&pause=1000&color=5EEAD4&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  
-[![🌐 Visit my Portfolio](https://img.shields.io/badge/🌐_josecarlosdev.com-purple?style=for-the-badge)](https://josecarlosdev.com)
-
+  <img src="assets/images/url.png" alt="Jose Carlos Banner" width="950"/>
 </div>
 
 
