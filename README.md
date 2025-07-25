@@ -1,7 +1,8 @@
 # Hi there, I'm José Carlos 👋
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&pause=1000&color=5EEAD4&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" />
+  <img src="assets/images/social-preview.png" alt="Jose Carlos Banner" width="650"/>
 </div>
 
 ---
