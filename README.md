@@ -58,10 +58,21 @@
 
 ---
 
-
 ## 🌟 Featured Projects
 
-### Go Tutor Agent
+<div align="center">
+
+##  [ **Go Tutor Agent**](https://github.com/JosCarRub/go-tutor-agent-project)
+
+*An intelligent tutoring system for Go programming language*
+
+</div>
+
+<div align="center">
+  <img src="assets/images/go_tutor.png" alt="Go Tutor Agent - AI-powered Go learning platform" width="650"/>
+  <p><em>Comprehensive microservices architecture for interactive Go programming education</em></p>
+</div>
+<br>
 
 The system is orchestrated with Docker and is composed of:
 - **Backend:** A robust REST API with **Spring Boot** and data persistence in **MongoDB**. <br>
@@ -70,7 +81,7 @@ The system is orchestrated with Docker and is composed of:
 - **Frontend:** An ultra-fast UI with **Astro** and **Preact** (Islands Architecture).<br>
 - **Observability:** A complete stack with **Prometheus, Grafana, and Loki** for comprehensive monitoring.<br><br>
 
-[👨‍💻 **Explore the Code on GitHub**](https://github.com/JosCarRub/go-tutor-agent-project)
+[👨‍💻 **Go Tutor Agent**](https://github.com/JosCarRub/go-tutor-agent-project)
 
 ---
 
