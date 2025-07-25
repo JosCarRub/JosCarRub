@@ -1,7 +1,9 @@
 # Hi there, I'm José Carlos 👋
 
 <div align="center">
-  <img src="assets/images/url.png" alt="Jose Carlos Banner" width="950"/>
+  <a href="https://josecarlosdev.com" target="_blank">
+    <img src="assets/images/url.png" alt="José Carlos - Software Developer Portfolio" width="100%"/>
+  </a>
 </div>
 
 
