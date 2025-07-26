@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://josecarlosdev.com" target="_blank">
-    <img src="assets/images/url.png" alt="José Carlos - Software Developer Portfolio" width="100%"/>
+    <img src="assets/images/url3.png" alt="José Carlos - Software Developer Portfolio" width="100%"/>
   </a>
 </div>
 
