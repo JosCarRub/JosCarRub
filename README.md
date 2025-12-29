@@ -45,7 +45,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="55" height="55"/>
       &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://bashlogo.com/img/logo/svg/full_colored_light.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55"/>
       &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
