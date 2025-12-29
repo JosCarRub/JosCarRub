@@ -18,7 +18,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="55" height="55"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55" height="55"/>
+  <img src="https://github.com/manuelbieh/logo-file-icons/blob/master/icons/php.svg" alt="PHP" width="60" height="60"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
