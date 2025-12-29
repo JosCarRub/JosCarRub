@@ -29,6 +29,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="55" height="55"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/benc-uk/icon-collection/blob/master/logos/vuejs.svg" width="55" height="55"/>
+
+
+
+
 
 
 
@@ -47,8 +53,8 @@
       &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55"/>
       &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/actions/starter-workflows/blob/main/icons/makefile.svg" width="55" height="55"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="55" height="55"/>
 
 
@@ -62,10 +68,12 @@
 ### Currently Learning
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="Rabbit" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="55" height="55"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55"/>
   
   
 
