@@ -1,11 +1,5 @@
 # Hi there, I'm José Carlos 👋
 
-<div align="center">
-  <a href="https://josecarlosdev.com" target="_blank">
-    <img src="assets/images/url4.png" alt="José Carlos - Software Developer Portfolio" width="100%"/>
-  </a>
-</div>
-
 
 ## 🛠️ Tech Stack
 <br><br>
